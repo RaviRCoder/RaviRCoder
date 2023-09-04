@@ -80,3 +80,6 @@ footer ul{
     gap: 20px;
     padding: 20px;
 }
+footer ul li a ion-icon{
+    font-size: 25px;
+}
