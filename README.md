@@ -2,7 +2,7 @@
 # Hi, I'm Ravi! 👋
 
 ## 🚀 About Me
-Just Trying To Create Some Awesome Scripts, Web Apps, android apps and much more soon..
+Just trying to create some awesome scripts, web-apps, android-apps and much-more soon..
 
 ## 🛠 Techonolgies I Love The Most
 [![PYTHON](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/) 
