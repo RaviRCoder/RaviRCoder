@@ -7,7 +7,7 @@ Just Trying To Create Some Awesome Scripts, Web Apps, android apps and much more
 ## 🛠 Techonolgies I Love The Most
 [![PYTHON](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/) 
 [![FLUTTER](https://img.shields.io/badge/FLUTTER-000?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/) 
-[![REACT NATIVE](https://img.shields.io/badge/REACT-NATIVE-000?style=for-the-badge&logo=React&logoColor=white)](https://reactnative.dev/) 
+[![REACT NATIVE](https://img.shields.io/badge/REACT_NATIVE-000?style=for-the-badge&logo=React&logoColor=white)](https://reactnative.dev/) 
 [![NEXTjs](https://img.shields.io/badge/Nextjs-1DA1F2?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org/)
 
 ## 🔗 Social Profiles
