@@ -1,7 +1,6 @@
 
 # Hi, I'm Ravi! 👋
 
-## 🚀 About Me
 Just trying to create some awesome projects for fun...
 
 ## 🛠 Techonolgies I Love The Most
