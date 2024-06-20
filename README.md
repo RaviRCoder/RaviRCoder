@@ -3,7 +3,7 @@
 
 Just trying to create some awesome projects for fun...
 
-## 🛠 Techonolgies I Love The Most
+## 🛠 Techonolgies
 [![PYTHON](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/) 
 [![NEXTjs](https://img.shields.io/badge/Nextjs-1DA1F2?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org/)
 
